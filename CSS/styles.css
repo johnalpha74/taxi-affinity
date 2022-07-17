@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body,
+h1,
+h2,
+h3 {
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+.container {
+    background-image: url('/assets/images/cover\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    background-origin: content-box;
+}
+.nav-container {
+    margin-left: 150px;
+    padding: 30px;
+    height: 20px;
+    display: flex;
+}
+
+.apply-now {
+    text-decoration: none;
+    background-color: #13AD06;
+    padding: 0.75rem;
+    font-size: 1.063rem;
+    color: #fff;
+    margin-left: 900px;
+  }
+
+.contact-us {
+    text-decoration: none;
+    padding: 50px;
+    font-family: poppins;
+    font-size: 16px;
+}
+
+.tailor-finance {
+    margin: 150px;
+    text-shadow: 2px 2px #000000;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: white;
+}
+
+.hero-top-text {
+margin-left: 150px;
+width: 350px;
+height: 135px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+color: #00000;
+line-height: 32px;
+}
+
+.rating-stars {
+    padding: 20px;
+    margin-left: 150px;
+    color: orange;
+    height: 135px;
+    font-family: 'Poppins';
+    text-shadow: 2px 2px #000000;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.rating-text {
+    padding: 10px;
+    width: 350px;
+    font-family: 'Poppins';
+    font-size: 12px;
+    color: #ffffff;
+    line-height: 16px;
+}
+
+.ratings-container {
+    display: flex;
+}
+
+.btn {
+    box-sizing: border-box;
+    margin-left: 200px;
+    margin-bottom: 400px;
+    padding: 10px;
+    color: #00000;
+    text-decoration: none;
+    width: 136.99px;
+    height: 80.04px;
+    border: 3px solid #13AD06;
+    font-family: poppins;
+    font-size: 16px;
+  }
+
+    .btn:hover {
+        background-color: #13AD06;
+        color: #ffffff;
+    }
+
+    a:link {
+        color: white;
+}
+a:visited {
+    color: white;
+  }
+
